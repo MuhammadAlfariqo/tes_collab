@@ -1,0 +1,9 @@
+git command 
+
+git init 
+git config user.name "[username git]"
+git config user.email "[email.git]"
+git remote add origin [rul repo]
+git add -A
+git commit -m "[pesan update]"
+git push -u origin master
