@@ -7,3 +7,10 @@ git remote add origin [rul repo]
 git add -A
 git commit -m "[pesan update]"
 git push -u origin master
+
+
+cara kolaborasi
+git clone [alamat https]
+git add .
+git commit -m "[pesan update]"
+git push -u origin master
